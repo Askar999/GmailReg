@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GmailReg</string>
+    <string name="gmail">gmail</string>
+    <string name="theme">Theme</string>
+    <string name="massage">Massage</string>
+    <string name="next">Next</string>
+    <string name="send">send</string>
+    <string name="message">message</string>
+</resources>
